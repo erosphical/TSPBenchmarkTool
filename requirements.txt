@@ -1,0 +1,6 @@
+tsplib95==0.7.1
+numpy==1.26.4
+python_tsp==0.4.1
+ortools==9.10.4067
+randomized_tsp==0.0.2
+plotly==5.22.0
